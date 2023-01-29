@@ -126,7 +126,7 @@ a{
   border: 1px solid white;
   border-radius: 79px 0px 79px 0px;
   position: relative;
-  bottom: 2vh;
+  bottom: -120vh;
   background: #0000032e;
 
 
@@ -155,7 +155,7 @@ height: 40px;
   color: white;
 justify-content: center;
 position: relative;
-bottom: 0vh;
+bottom: -122vh;
 }
 
 .content-foot{
