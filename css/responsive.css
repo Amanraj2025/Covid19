@@ -1,99 +1,99 @@
 @media screen and (max-width:500px)  {
 
 
-    .logo {
-        height: 8vh;
-        position: relative;
-        left: 3vw;
-        top: 1vh;
-    }
+  .logo {
+      height: 8vh;
+      position: relative;
+      left: 3vw;
+      top: 1vh;
+  }
 .center{
-    height: 447vh;
-    width: 100vw;
+  height: 447vh;
+  width: 100vw;
 
 }
-    .navbar {
-        position: fixed;
-        display: grid;
-        z-index: 100;
-        height: 9.5vh;
-        background-color: rgb(19, 19, 19);
-        background-repeat: repeat;
-        opacity: 1;
-        visibility: visible;
-        width: 100vw;
-      }
+  .navbar {
+      position: fixed;
+      display: grid;
+      z-index: 100;
+      height: 9.5vh;
+      background-color: rgb(19, 19, 19);
+      background-repeat: repeat;
+      opacity: 1;
+      visibility: visible;
+      width: 100vw;
+    }
 
-      .nav-ul {
-        display: none;
-      }
+    .nav-ul {
+      display: none;
+    }
 
-      .vaccine1 {
-        position: relative;
-        left: -85vw;
-                top: 7vh;
-        height: 35vh;
-      }
+    .vaccine1 {
+      position: relative;
+      left: -85vw;
+              top: 7vh;
+      height: 35vh;
+    }
 
-      .vaccine {
-        width: 86vw;
-        color: white;
-        font-family: 'Roboto', sans-serif;
-        position: relative;
-        top: 16vh;
-        font-size: 1.8rem;
-      }
+    .vaccine {
+      width: 86vw;
+      color: white;
+      font-family: 'Roboto', sans-serif;
+      position: relative;
+      top: 16vh;
+      font-size: 1.8rem;
+    }
 
-      .par {
-        position: relative;
-        left: 5px;
-        color: white;
-        font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
-        padding-top: 30px;
-        width: 70vw;
-        top: 14vh;
-        font-size: 1rem;
-      }
+    .par {
+      position: relative;
+      left: 5px;
+      color: white;
+      font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+      padding-top: 30px;
+      width: 70vw;
+      top: 14vh;
+      font-size: 1rem;
+    }
 
-      .get{
-        top: 16vh;
-      }
+    .get{
+      top: 16vh;
+    }
 
 
-      .cases{
-        top: 39vh;
-        height: 88px;
-      }
-      .chart {
-        position: relative;
+    .cases{
+      top: 39vh;
+      height: 88px;
+    }
+    .chart {
+      position: relative;
 width: 94vw;
 left: 2vw;
 top: -1vh;
-      }      
-      .percent {
-        display: flex;
-        color: white;
-        gap: 17vw;
-        position: relative;
-        left: 9vw;
-        top: -2vh;
-        font-size: 0.9rem;
-      }
-      .step-head ,.search-head{
-        position: relative;
-        left: 7vw;
-        color: white;
-        font-family: 'Roboto', sans-serif;
-        text-shadow: rgba(337, 331, 331, .34) 0px 1px 4px;
-        top: 43vh;
-        font-size: 1.7rem;
-          }
-      .steps {
-        display: grid;
-        
-      }
-      .step1, .step2, .step3 {
-        box-shadow: rgba(0, 0, 0, 0.24) 0px 3px 8px;
+    }      
+    .percent {
+      display: flex;
+      color: white;
+      gap: 17vw;
+      position: relative;
+      left: 9vw;
+      top: -2vh;
+      font-size: 0.9rem;
+    }
+    .step-head ,.search-head{
+      position: relative;
+      left: 7vw;
+      color: white;
+      font-family: 'Roboto', sans-serif;
+      text-shadow: rgba(337, 331, 331, .34) 0px 1px 4px;
+      top: 43vh;
+      font-size: 1.7rem;
+        }
+    .steps {
+      display: grid;
+      
+    }
+    .step1, .step2, .step3 {
+      box-shadow: rgba(0, 0, 0, 0.24) 0px 3px 8px;
 width: 56vw;
 background-color: white;
 height: 38vh;
@@ -101,283 +101,283 @@ position: relative;
 border-radius: 13px;
 left: 18vw;
 top: 32vh;
-      }
+    }
 
-      .a, .b, .c {
-        box-shadow: rgba(99, 99, 99, 0.2) 0px 2px 8px 0px;
-        width: 21vw;
-        border-radius: 11px;
-        left: 17.5vw;
-        position: relative;
-        height: 4vh;
-        top: -2.5vh;
-        background-color: white;
-      }
+    .a, .b, .c {
+      box-shadow: rgba(99, 99, 99, 0.2) 0px 2px 8px 0px;
+      width: 21vw;
+      border-radius: 11px;
+      left: 17.5vw;
+      position: relative;
+      height: 4vh;
+      top: -2.5vh;
+      background-color: white;
+    }
 
-      .a1, .a2, .a3 {
-        width: 54vw;
-        position: relative;
-        left: -16vw;
-        top: 1vh;
-      }
-      p{
-        position: relative;
-        left: 4.5vw;
-        bottom: -0.5vh;
-      }
-      .b1, .b2{
-        position: relative;
-        left: -10vw;
-        top: 6vh;
-        color: #3d3939;
-        width: 46vw;
-      }
-      .b3 {
-        position: relative;
-        top: 2vh;
-        left: -10vw;
-        width: 46vw;
-      }
+    .a1, .a2, .a3 {
+      width: 54vw;
+      position: relative;
+      left: -16vw;
+      top: 1vh;
+    }
+    p{
+      position: relative;
+      left: 4.5vw;
+      bottom: -0.5vh;
+    }
+    .b1, .b2{
+      position: relative;
+      left: -10vw;
+      top: 6vh;
+      color: #3d3939;
+      width: 46vw;
+    }
+    .b3 {
+      position: relative;
+      top: 2vh;
+      left: -10vw;
+      width: 46vw;
+    }
 
-      .search-head, .search-disc {
-        color: white;
-        position: relative;
-        top: 62vh;
-        left: 11vw;
-        font-size: 1.8rem;
-        width: 75vw;
+    .search-head, .search-disc {
+      color: white;
+      position: relative;
+      top: 62vh;
+      left: 11vw;
+      font-size: 1.8rem;
+      width: 75vw;
 
-      }
-      .search-disc {
-        width: 72vw;
-        font-size: 0.9rem;
-        padding-top: 12px;
-      }
-      .search {
-        display: grid;
-        position: relative;
-        top: 67vh;
-        left: 1vw;
-        gap: 24px;
-      }
+    }
+    .search-disc {
+      width: 72vw;
+      font-size: 0.9rem;
+      padding-top: 12px;
+    }
+    .search {
+      display: grid;
+      position: relative;
+      top: 67vh;
+      left: 1vw;
+      gap: 24px;
+    }
 
-      .search-button {
-        width: 111px;
-        border-radius: 20px;
-        height: 5vh;
-        position: relative;
-        left: 32vw;
-        z-index: 0;
-      }
-    .drop1{
-        position: relative;
+    .search-button {
+      width: 111px;
+      border-radius: 20px;
+      height: 5vh;
+      position: relative;
+      left: 37vw;
+            z-index: 0;
+    }
+  .drop1{
+      position: relative;
 z-index: 3;
-    }
-    .drop2{
-        position: relative;
+  }
+  .drop2{
+      position: relative;
 z-index: 2;
+  }
+
+  .side-effect {
+      display: grid;
+      position: relative;
+      top: 77vh;
+      gap: 13vw;
+      left: 0vw;
+      padding-left: 52px;
+      background: #0000001f;
+    }
+    .side-img {
+      width: 81vw;
+      position: relative;
+      left: -5vw;
+    }
+    .side-text {
+      position: relative;
+      top: -4vh;
+      font-family: 'Roboto', sans-serif;
+      font-size: 0.9rem;
+    }
+    .side-p {
+      width: 75vw;
+    }
+    .get1 {
+      position: relative;
+      left: 77px;
+            top: 2vh;
+      width: 39vw;
+      height: 5vh;
+    }
+    .child-head {
+      font-family: 'Roboto', sans-serif;
+      padding-bottom: 20px;
+      position: relative;
+      left: 13vw;
+      width: 73vw;        
+    }
+    .child-section {
+      display: flex;
+      position: relative;
+      top: 728px;
+      left: 5vw;
+      gap: 52px;
+      color: white;
+    }
+    .child-img {
+      width: 97vw;
+      left: -65vw;
+      position: relative;
+      height: 26vh;
+      top: 6vh;
+    }
+    .ch {
+      position: relative;
+      top: 27vh;
+      width: 82vw;
+      left: 8vw;
+    }
+    .get2 {
+      width: 46vw;
+      position: relative;
+      left: 83px;
+      top: 28vh;
+    }
+    .copyright{
+      bottom: -116vh;
+    }
+    .content-foot {
+      display: none;
+    }
+    .aman {
+      position: relative;
+      left: 8vh;
+      top: 3vh;
+      height: 23vh;
+    }
+    .para {
+      display: none;
+    }
+    .college,.branch,.sem{
+      width: 59vw;
+    }
+    .ul1 {
+      list-style-type: none;
+      position: relative;
+      left: -47vw;
+      top: 167px;
+      display: flex;
+      height: 40px;
+    }
+    .linkedIn{
+      bottom: -115vh;      }
+
+    /* about us */
+
+    .abou {
+      height: 8vh;
+      background: #00000026;
+      width: 47vw;
+      position: relative;
+      left: 26vw;
+      border-radius: 59px;
+    }
+    .first, .second, .third, .fourth {
+      display: grid;
+      justify-content: center;
+      gap: 0vw;
+      background: #00000026;
+      height: 66vh;
+      width: 91vw;
+      border-radius: 20pc;
+      left: 4vw;
+      position: relative;
+    }
+    .bb1 {
+      width: 69vw;
+      position: relative;
+     }
+    .ab1-p {
+      color: white;
+      padding-top: 20px;
+      width: 68vw;
+      left: 0;
+    }
+    .bb2 {
+      width: 70vw;
+      position: relative;
+      top: 4vh;
+    }
+    .ab2 {
+      color: white;
+      font-family: 'Roboto', sans-serif;
+      height: 30vh;
+      top: -2vh;
+      position: relative;
     }
 
-    .side-effect {
-        display: grid;
-        position: relative;
-        top: 77vh;
-        gap: 13vw;
-        left: 0vw;
-        padding-left: 52px;
-        background: #0000001f;
-      }
-      .side-img {
-        width: 81vw;
-        position: relative;
-        left: -5vw;
-      }
-      .side-text {
-        position: relative;
-        top: -4vh;
-        font-family: 'Roboto', sans-serif;
-        font-size: 0.9rem;
-      }
-      .side-p {
-        width: 75vw;
-      }
-      .get1 {
-        position: relative;
-        left: 50px;
-        top: 2vh;
-        width: 39vw;
-        height: 5vh;
-      }
-      .child-head {
-        font-family: 'Roboto', sans-serif;
-        padding-bottom: 20px;
-        position: relative;
-        left: 13vw;
-        width: 73vw;        
-      }
-      .child-section {
-        display: flex;
-        position: relative;
-        top: 670px;
-        left: 5vw;
-        gap: 52px;
-        color: white;
-      }
-      .child-img {
-        width: 97vw;
-        left: -65vw;
-        position: relative;
-        height: 26vh;
-        top: 6vh;
-      }
-      .ch {
-        position: relative;
-        top: 27vh;
-        width: 82vw;
-        left: 8vw;
-      }
-      .get2 {
-        width: 46vw;
-        position: relative;
-        left: 83px;
-        top: 28vh;
-      }
-      .copyright{
-        bottom: -116vh;
-      }
-      .content-foot {
-        display: none;
-      }
-      .aman {
-        position: relative;
-        left: 8vh;
-        top: 3vh;
-        height: 23vh;
-      }
-      .para {
-        display: none;
-      }
-      .college,.branch,.sem{
-        width: 59vw;
-      }
-      .ul1 {
-        list-style-type: none;
-        position: relative;
-        left: -47vw;
-        top: 167px;
-        display: flex;
-        height: 40px;
-      }
-      .linkedIn{
-        bottom: -115vh;      }
-
-      /* about us */
-
-      .abou {
-        height: 8vh;
-        background: #00000026;
-        width: 47vw;
-        position: relative;
-        left: 26vw;
-        border-radius: 59px;
-      }
-      .first, .second, .third, .fourth {
-        display: grid;
-        justify-content: center;
-        gap: 0vw;
-        background: #00000026;
-        height: 66vh;
-        width: 91vw;
-        border-radius: 20pc;
-        left: 4vw;
-        position: relative;
-      }
-      .bb1 {
-        width: 69vw;
-        position: relative;
-       }
-      .ab1-p {
-        color: white;
-        padding-top: 20px;
-        width: 68vw;
-        left: 0;
-      }
-      .bb2 {
-        width: 70vw;
-        position: relative;
-        top: 4vh;
-      }
-      .ab2 {
-        color: white;
-        font-family: 'Roboto', sans-serif;
-        height: 30vh;
-        top: -2vh;
-        position: relative;
-      }
-
-      .abc {
-        width: 80vw;
-        position: relative;
-        left: 6vw;
-        top: 2vh;
-      }
-      .ab4 {
-        color: white;
-        font-family: 'Roboto', sans-serif;
-        height: 28vh;
-        top: 1vh;
-        position: relative;
-        width: 63vw;
-        left: 7vw;
-      }
-      .bg {
-        height: 56vh;
-      }
+    .abc {
+      width: 80vw;
+      position: relative;
+      left: 6vw;
+      top: 2vh;
+    }
+    .ab4 {
+      color: white;
+      font-family: 'Roboto', sans-serif;
+      height: 28vh;
+      top: 1vh;
+      position: relative;
+      width: 63vw;
+      left: 7vw;
+    }
+    .bg {
+      height: 56vh;
+    }
 
 
-      /* // hamberger */
-      nav .mainMenu {
-        height: 100vh;
-        position: fixed;
-        top: 0px;
-        right: 0px;
-        left: 0px;
-        z-index: 10;
-        flex-direction: column;
-        justify-content: center;
-        align-items: center;
-        background: rgb(0, 0, 0);
-        transition: top 1s ease 0s;
-        display: none;
-      }
-      nav .mainMenu .closeMenu {
-        display: block;
-        position: absolute;
-        top: 20px;
-        right: 20px;
-      }
-      nav .openMenu {
-        display: block;
-      }
-      nav .mainMenu li a:hover {
-        background: none;
-        color: rgb(175, 170, 165);
-      }
-      .openmenu{
-        display: block;
-      }
-      #line {
-        position: relative;
-        top: -6vh;
-        left: 90vw;
-        color: white;
-      }
-      nav .mainMenu{
-        width: 102vw;
-        height: 24vh;
-      }
-      #cross{
-        color: white;
-      }
-    
+    /* // hamberger */
+    nav .mainMenu {
+      height: 100vh;
+      position: fixed;
+      top: 0px;
+      right: 0px;
+      left: 0px;
+      z-index: 10;
+      flex-direction: column;
+      justify-content: center;
+      align-items: center;
+      background: rgb(0, 0, 0);
+      transition: top 1s ease 0s;
+      display: none;
+    }
+    nav .mainMenu .closeMenu {
+      display: block;
+      position: absolute;
+      top: 20px;
+      right: 20px;
+    }
+    nav .openMenu {
+      display: block;
+    }
+    nav .mainMenu li a:hover {
+      background: none;
+      color: rgb(175, 170, 165);
+    }
+    .openmenu{
+      display: block;
+    }
+    #line {
+      position: relative;
+      top: -6vh;
+      left: 90vw;
+      color: white;
+    }
+    nav .mainMenu{
+      width: 102vw;
+      height: 24vh;
+    }
+    #cross{
+      color: white;
+    }
+  
 }
