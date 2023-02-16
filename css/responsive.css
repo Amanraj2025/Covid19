@@ -243,7 +243,7 @@ z-index: 2;
       top: 28vh;
     }
     .copyright{
-      bottom: -116vh;
+    bottom: -153vh;
     }
     .content-foot {
       display: none;
@@ -269,7 +269,9 @@ z-index: 2;
       height: 40px;
     }
     .linkedIn{
-      bottom: -115vh;      }
+         bottom: -153vh;
+
+  }
 
     /* about us */
 
